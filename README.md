@@ -132,9 +132,9 @@ Note: pair the data object name "df" with pandas functions to manipulate data, s
 
 
 ## Insights
-**1This dataset includes variables that should be helpful for building prediction model(s) on taxi cab ride fares.**
+**1. This dataset includes variables that should be helpful for building prediction model(s) on taxi cab ride fares.**
 
-**2The identified unusual values are trips that are a short distance but have high charges associated with them, as shown in the             total_amount variable. Reference screenshots.**
+**2. The identified unusual values are trips that are a short distance but have high charges associated with them, as shown in the             total_amount variable. Reference screenshots.**
 
 
 
