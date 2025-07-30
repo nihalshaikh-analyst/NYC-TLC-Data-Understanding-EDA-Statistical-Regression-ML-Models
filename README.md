@@ -95,8 +95,8 @@ Compile summary information about the data to inform next steps.
 
 Use insights from your examination of the summary data to guide deeper investigation into specific variables.
 
-## Task 1. Understand the situation
-- How can you best prepare to understand and organize the provided taxi cab information?
+## Understand the situation
+- How can best prepare to understand and organize the provided taxi cab information?
 Begin by exploring dataset and consider reviewing the Data Dictionary. One can prepare to understand the information by reading the taxi cab data fields and understanding the impact of each one. Reviewing the fact sheet could also provide helpful background information. However, the primary goal is to get the data into Python, inspect it, and provide DeShawn with initial observations. The next step would be to learn more about the data and check for any anomalies.
 
 ## Build dataframe
