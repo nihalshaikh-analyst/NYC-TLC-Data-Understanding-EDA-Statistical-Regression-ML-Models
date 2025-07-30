@@ -23,8 +23,14 @@ The TLC data comes from over 200,000 taxi and limousine licensees, making approx
 - Uli King, Senior Project Manager
 
 Your teammates at Automatidata have technical experience with data analysis and data science. However, you should always be sure to keep summaries and messages to these team members concise and to the point. 
+
+
 ![TLC](https://github.com/nihalshaikh-analyst/NYC-Yellow-Taxi-Trip-Data-Analysis/blob/main/Taxi%20trip.png)
+
+
 ## New York City TLC Team Members
+
+
 - Juliana Soto, Finance and Administration Department Head
 
 - Titus Nelson, Operations Manager
