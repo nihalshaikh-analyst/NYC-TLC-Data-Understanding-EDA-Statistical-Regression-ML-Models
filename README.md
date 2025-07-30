@@ -1,7 +1,8 @@
 # NYC-Yellow-Taxi-Trip-Data-Analysis
 New York City Taxi and Limousine Commission (New York City TLC) Yellow taxi trip data analyze, clean, process, data analysis by using Python and its Library pandas and numpy with presentation in Jupyter Notebook.
 
-![]()
+![NYC](https://github.com/nihalshaikh-analyst/NYC-Yellow-Taxi-Trip-Data-Analysis/blob/main/NYC%20tlc.png)
+
 ## Background on the Automatidata scenario
 Automatidata works with its clients to transform their unused and stored data into useful solutions, such as performance dashboards, customer-facing tools, strategic business insights, and more. They specialize in identifying a client’s business needs and utilizing their data to meet those business needs. 
 
@@ -22,7 +23,7 @@ The TLC data comes from over 200,000 taxi and limousine licensees, making approx
 - Uli King, Senior Project Manager
 
 Your teammates at Automatidata have technical experience with data analysis and data science. However, you should always be sure to keep summaries and messages to these team members concise and to the point. 
-
+![TLC](https://github.com/nihalshaikh-analyst/NYC-Yellow-Taxi-Trip-Data-Analysis/blob/main/Taxi%20trip.png)
 ## New York City TLC Team Members
 - Juliana Soto, Finance and Administration Department Head
 
@@ -32,7 +33,7 @@ The TLC team members are program managers who oversee operations at the organiza
 
 - Note: The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes. 
 
-##Data dictionary
+## Data dictionary
 This project uses a dataset called 2017_Yellow_Taxi_Trip_Data.csv. It data gathered by the New York City Taxi & Limousine Commission and published by the city of New York as part of their NYC Open Data program. In order to improve the learning experience and shorten runtimes, a sample was drawn from the 113 million rows in the 2017 Yellow Taxi Trip Data table.
 
 
