@@ -129,6 +129,8 @@ Note: pair the data object name "df" with pandas functions to manipulate data, s
 - Examined which components of the provided data will provide relevant insights.
 - Built the groundwork for future exploratory data analysis, visualizations, and models.
 
+## Storytelling and Present Findings.
+![Persentation](https://github.com/nihalshaikh-analyst/NYC-Yellow-Taxi-Trip-Data-Analysis/blob/main/Presentation.png)
 
 
 ## Insights
