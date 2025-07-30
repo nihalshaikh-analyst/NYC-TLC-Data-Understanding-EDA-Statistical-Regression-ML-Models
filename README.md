@@ -16,7 +16,7 @@ The TLC data comes from over 200,000 taxi and limousine licensees, making approx
 - Note: This project's dataset was created for pedagogical purposes and may not be indicative of New York City taxi cab riders' behavior.
 
 ## Team members at Automatidata and the New York City TLC
-** Automatidata Team Members **
+**Automatidata Team Members**
 - Udo Bankole, Director of Data Analysis
 
 - Deshawn Washington, Data Analysis Manager
@@ -25,7 +25,7 @@ The TLC data comes from over 200,000 taxi and limousine licensees, making approx
 
 - Uli King, Senior Project Manager
 
-Your teammates at Automatidata have technical experience with data analysis and data science. However, you should always be sure to keep summaries and messages to these team members concise and to the point. 
+My teammates at Automatidata have technical experience with data analysis and data science. I should always be sure to keep summaries and messages to these team members concise and to the point. 
 
 
 ![TLC](https://github.com/nihalshaikh-analyst/NYC-Yellow-Taxi-Trip-Data-Analysis/blob/main/Taxi%20trip.png)
@@ -40,7 +40,7 @@ Your teammates at Automatidata have technical experience with data analysis and 
 
 The TLC team members are program managers who oversee operations at the organization. Their roles are not highly technical, so be sure to adjust your language and explanation accordingly.
 
-- Note: The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes. 
+- Note: The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons     (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes. 
 
 ## Data dictionary
 This project uses a dataset called 2017_Yellow_Taxi_Trip_Data.csv. It data gathered by the New York City Taxi & Limousine Commission and published by the city of New York as part of their NYC Open Data program. In order to improve the learning experience and shorten runtimes, a sample was drawn from the 113 million rows in the 2017 Yellow Taxi Trip Data table.
