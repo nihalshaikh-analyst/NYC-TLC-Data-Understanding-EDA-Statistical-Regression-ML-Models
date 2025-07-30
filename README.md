@@ -135,12 +135,20 @@ Note: pair the data object name "df" with pandas functions to manipulate data, s
 **This dataset includes variables that should be helpful for building prediction model(s) on taxi cab ride fares.**
 **The identified unusual values are trips that are a short distance but have high charges associated with them, as shown in the             total_amount variable. Reference screenshots.**
 
+
+## Next Step
+
 **1.Conduct a complete exploratory data analysis.**
+
 **2.Perform any data cleaning and data analysis steps to understand unusual variables (e.g., outliers).**
+
 **3.Use descriptive statistics to learn more about the data.**
+
 **4Create and run a regression model.**
 
+
 Any query reach out nihalshaikh,analyst@gmail.com
+
 
 ------Thankyou......
 
