@@ -151,7 +151,7 @@ Note: pair the data object name "df" with pandas functions to manipulate data, s
 **4Create and run a regression model.**
 
 
-Any query reach out nihalshaikh,analyst@gmail.com
+Any query reach out nihalshaikh.analyst@gmail.com
 
 
 ------Thankyou......
