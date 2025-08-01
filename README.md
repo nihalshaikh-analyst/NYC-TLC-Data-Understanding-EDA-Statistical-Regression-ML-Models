@@ -57,9 +57,8 @@ Automatidata is in the earliest stages of the TLC project. The following tasks a
 
 
 ## Specific project deliverables
-With this end-of-course project, you will gain valuable practice and apply your new skills as you complete the following:
 
-- Complete the questions in the Course 2 PACE strategy document
+- Complete the questions in the strategy document
 
 - Answer the questions in the Jupyter notebook project file
 
