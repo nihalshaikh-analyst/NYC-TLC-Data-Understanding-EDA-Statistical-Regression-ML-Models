@@ -47,6 +47,7 @@ New York City Taxi and Limousine Commission (New York City TLC) Yellow taxi trip
 -  2: Data Exploration
 
 - Data cleaning
+- 
 -  3: Building visualizations
 
 - 4: Evaluate and share results
@@ -56,7 +57,7 @@ New York City Taxi and Limousine Commission (New York City TLC) Yellow taxi trip
 - Then, import the dataset.
 
 - Decide which columns are applicable
-  The first step is to assess your data. Check the Data Source page on Tableau Public to get a sense of the size, shape and makeup of the    data set. Then answer these questions to yourself:
+  The first step is to assess your data. Check the Data Source page on Tableau Public to get a sense of the size, shape and makeup of the   data set. Then answer these questions to yourself:
   Given our scenario, which data columns are most applicable? Which data columns can I eliminate, knowing they won’t solve problem    
   Consider functions that help you understand and structure the data.
 
@@ -78,16 +79,23 @@ sortby()
 - Select data visualization types that will help you understand and explain the data.
 
 Line graph
+
 Bar chart
+
 Box plot
+
 Histogram
+
 Heat map
+
 Scatter plot
+
 A geographic map
 
-- Perform a check for outliers on relevant columns such as trip distance and trip duration. Remember, some of the best ways to identify      the presence of outliers in data are box plots and histograms.
 
-- The majority of trips were journeys of less than two miles. The number of trips falls away steeply as the distance traveled increases      beyond two miles.
+- Perform a check for outliers on relevant columns such as trip distance and trip duration. Remember, some of the best ways to identify     the presence of outliers in data are box plots and histograms.
+
+- The majority of trips were journeys of less than two miles. The number of trips falls away steeply as the distance traveled increases     beyond two miles.
 
 - The months are out of order.
 
@@ -99,7 +107,7 @@ A geographic map
 
 - Repeat the above process, but now calculate the total revenue by day of the week.
 
--  Thursday had the highest gross revenue of all days, and Sunday and Monday had the least. Interestingly, although Saturdd only 35 fewer     rides than Thursday, its gross revenue was ~$6,000 less than Thursday's&mdash;more than a 10% drop.
+-  Thursday had the highest gross revenue of all days, and Sunday and Monday had the least. Interestingly, although Saturdd only 35 fewer    rides than Thursday, its gross revenue was ~$6,000 less than Thursday's&mdash;more than a 10% drop.
 
 - Monthly revenue generally follows the pattern of monthly rides, with noticeable dips in the summer months of July, August, and            September, and also one in February.
 
@@ -107,10 +115,11 @@ A geographic map
 
 To confirm this conclusion, consider the following experiment:
 
-1. Create a sample of coordinates from a normal distribution—in this case 1,500 pairs of points from a normal distribution with a mean of    10 and a standard deviation of 5
-2. Calculate the distance between each pair of coordinates
-3. Group the coordinates by endpoint and calculate the mean distance between that endpoint and all other points it was paired with
-4. Plot the mean distance for each unique endpoint
+1. Create a sample of coordinates from a normal distribution—in this case 1,500 pairs of points from a normal distribution with a mean of
+2. 10 and a standard deviation of 5
+3. Calculate the distance between each pair of coordinates
+4. Group the coordinates by endpoint and calculate the mean distance between that endpoint and all other points it was paired with
+5. Plot the mean distance for each unique endpoint
 
 
 - There are 49 numbers that do not represent a drop-off location. 
