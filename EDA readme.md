@@ -128,6 +128,14 @@ To confirm this conclusion, consider the following experiment:
 
 - Notice that out of the 200+ drop-off locations, a disproportionate number of locations receive the majority of the traffic, while all     the rest get relatively few trips. It's likely that these high-traffic locations are near popular tourist attractions like the Empire     State Building or Times Square, airports, and train and bus terminals. However, it would be helpful to know the location that each ID     corresponds with. Unfortunately, this is not in the data.
 
+
+
+## Jupyter Notebook
+
+[Notebook](https://github.com/nihalshaikh-analyst/NYC-Yellow-Taxi-Trip-Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20(EDA)%20of%20NYC%20TLC.ipynb)
+
+
+
   **"EDA is important because ...
 EDA helps a data professional to get to know the data, understand its outliers, clean its missing values, and prepare it for future modeling.
 Visualizations helped me understand ..
