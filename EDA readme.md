@@ -42,15 +42,15 @@ New York City Taxi and Limousine Commission (New York City TLC) Yellow taxi trip
 
 **The goal is to clean data set and create a visualization.**
 
--  1: Imports, links, and loading
+- Imports, links, and loading
 
--  2: Data Exploration
+- Data Exploration
 
 - Data cleaning
-- 
--  3: Building visualizations
+  
+- Building visualizations
 
-- 4: Evaluate and share results
+- Evaluate and share results
 
 - For EDA of the data, import the data and packages that would be most helpful, such as pandas, numpy and matplotlib.
 
