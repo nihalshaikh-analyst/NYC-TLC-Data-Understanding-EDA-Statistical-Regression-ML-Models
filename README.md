@@ -98,6 +98,12 @@ Use insights from your examination of the summary data to guide deeper investiga
 - How can best prepare to understand and organize the provided taxi cab information?
 Begin by exploring dataset and consider reviewing the Data Dictionary. One can prepare to understand the information by reading the taxi cab data fields and understanding the impact of each one. Reviewing the fact sheet could also provide helpful background information. However, the primary goal is to get the data into Python, inspect it, and provide DeShawn with initial observations. The next step would be to learn more about the data and check for any anomalies.
 
+
+## Jupyter Notebook
+
+[Notebook](https://github.com/nihalshaikh-analyst/NYC-Yellow-Taxi-Trip-Data-Analysis/blob/main/Data%20Understaing%20NYC%20TLC.ipynb)
+
+
 ## Build dataframe
 Create a pandas dataframe for data learning, and future exploratory data analysis (EDA) and statistical activities.
 
