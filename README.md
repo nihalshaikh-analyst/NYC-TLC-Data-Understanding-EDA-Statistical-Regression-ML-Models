@@ -15,6 +15,9 @@ The TLC data comes from over 200,000 taxi and limousine licensees, making approx
 
 - Note: This project's dataset was created for pedagogical purposes and may not be indicative of New York City taxi cab riders' behavior.
 
+
+[Dataset](https://github.com/nihalshaikh-analyst/NYC-TLC-Data-Understanding-EDA-Statistical-Regression-ML-Models/blob/main/2017_Yellow_Taxi_Trip_Data.csv)
+
 ## Team members at Automatidata and the New York City TLC
 **Automatidata Team Members**
 - Udo Bankole, Director of Data Analysis
