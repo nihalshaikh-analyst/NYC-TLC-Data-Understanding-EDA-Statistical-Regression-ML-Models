@@ -38,6 +38,56 @@ New York City Taxi and Limousine Commission (New York City TLC) Yellow taxi trip
 
 - Write an executive summary of results and include a visualization.
 
+
+
+## Jupyter Notebook
+
+[Notebook](https://github.com/nihalshaikh-analyst/NYC-Yellow-Taxi-Trip-Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20(EDA)%20of%20NYC%20TLC.ipynb)
+
+
+
+  **"EDA is important because ...
+EDA helps a data professional to get to know the data, understand its outliers, clean its missing values, and prepare it for future modeling.
+Visualizations helped me understand ..
+That this dataset has some outliers that we will need to make decisions on prior to designing a model."**
+
+
+
+## Storytelling and Problem Solveing
+
+**"As a result of the conducted exploratory data analysis, the Automatidata data team considered trip distance and total amount as key variables to depict a taxi cab ride. The provided scatter plot shows the relationship between the two variables. This scatter plot was created in Tableau to enhance the provided visualization."**
+
+
+![EDA NYC TLC Presentations](https://github.com/nihalshaikh-analyst/NYC-Yellow-Taxi-Trip-Data-Analysis/blob/main/EDA%20NYC%20TLC%20Presentation.png)
+
+
+## Key Insights
+
+**"The Problem: After running initial exploratory data analysis (EDA) on a sample of the data provided by New York City TLC, it is clear that some of the data will prove an obstacle for accurate ride fare prediction. Namely, trips that have a total cost entered, but a total distance of “0.” At this point, our analysis indicates these to be anomalies or outliers that need to be factored into the algorithm or removed completely."**
+
+Proposed solution: After analysis, we recommend removing outliers with a total distanced recorded of 0. 
+
+**Keys to success**
+
+- Ensuring with New York City TLC that the sample provided is an accurate reflection of their data as a whole.
+
+- Plan for handling other outliers, such as low trip distance paired with high costs.
+
+
+<img width="612" height="400" alt="image" src="https://github.com/user-attachments/assets/22c67883-f2c7-4024-819d-5f796f45e839" />
+
+
+## Next Step 
+
+**1. Determine any unusual data points that could pose a problem for future analysis in predicting trip fares.**
+
+**2. For example, locations that have longer durations.**
+
+**3. Determine the variables that have the largest impact on trip fares.** 
+
+**4. Filter down to consider the most relevant variables for running regression, statistical analysis, and parameter tuning.**
+
+
 # Step by Step EDA Process
 
 **The goal is to clean data set and create a visualization.**
@@ -127,55 +177,6 @@ To confirm this conclusion, consider the following experiment:
 - To eliminate the spaces in the historgram that these missing numbers would create, sort the unique drop-off location values, then         convert   them to strings. This will make the histplot function display all bars directly next to each other.
 
 - Notice that out of the 200+ drop-off locations, a disproportionate number of locations receive the majority of the traffic, while all     the rest get relatively few trips. It's likely that these high-traffic locations are near popular tourist attractions like the Empire     State Building or Times Square, airports, and train and bus terminals. However, it would be helpful to know the location that each ID     corresponds with. Unfortunately, this is not in the data.
-
-
-
-## Jupyter Notebook
-
-[Notebook](https://github.com/nihalshaikh-analyst/NYC-Yellow-Taxi-Trip-Data-Analysis/blob/main/Exploratory%20Data%20Analysis%20(EDA)%20of%20NYC%20TLC.ipynb)
-
-
-
-  **"EDA is important because ...
-EDA helps a data professional to get to know the data, understand its outliers, clean its missing values, and prepare it for future modeling.
-Visualizations helped me understand ..
-That this dataset has some outliers that we will need to make decisions on prior to designing a model."**
-
-
-
-## Storytelling and Problem Solveing
-
-**"As a result of the conducted exploratory data analysis, the Automatidata data team considered trip distance and total amount as key variables to depict a taxi cab ride. The provided scatter plot shows the relationship between the two variables. This scatter plot was created in Tableau to enhance the provided visualization."**
-
-
-![EDA NYC TLC Presentations](https://github.com/nihalshaikh-analyst/NYC-Yellow-Taxi-Trip-Data-Analysis/blob/main/EDA%20NYC%20TLC%20Presentation.png)
-
-
-## Key Insights
-
-**"The Problem: After running initial exploratory data analysis (EDA) on a sample of the data provided by New York City TLC, it is clear that some of the data will prove an obstacle for accurate ride fare prediction. Namely, trips that have a total cost entered, but a total distance of “0.” At this point, our analysis indicates these to be anomalies or outliers that need to be factored into the algorithm or removed completely."**
-
-Proposed solution: After analysis, we recommend removing outliers with a total distanced recorded of 0. 
-
-**Keys to success**
-
-- Ensuring with New York City TLC that the sample provided is an accurate reflection of their data as a whole.
-
-- Plan for handling other outliers, such as low trip distance paired with high costs.
-
-
-<img width="612" height="400" alt="image" src="https://github.com/user-attachments/assets/22c67883-f2c7-4024-819d-5f796f45e839" />
-
-
-## Next Step 
-
-**1. Determine any unusual data points that could pose a problem for future analysis in predicting trip fares.**
-
-**2. For example, locations that have longer durations.**
-
-**3. Determine the variables that have the largest impact on trip fares.** 
-
-**4. Filter down to consider the most relevant variables for running regression, statistical analysis, and parameter tuning.**
 
 
 
