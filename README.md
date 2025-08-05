@@ -68,31 +68,6 @@ Automatidata is in the earliest stages of the TLC project. The following tasks a
 
 - Communicate important findings to DeShawn and Luana in the form of an executive summary
 
-## Step by step Process
-1.Ready to answer questions and yield insights
-
-2.Ready for visualizations
-
-3.Ready for future hypothesis testing and statistical methods
-
-The purpose of this project is to investigate and understand the data provided.
-
-The goal is to use a dataframe contructed within Python, perform a cursory inspection of the provided dataset, and inform team members of your findings.
-
-This activity has three parts:
-
-- Part 1: Understand the situation
-
-Prepare to understand and organize the provided taxi cab dataset and information.
-- Part 2: Understand the data
-
-Create a pandas dataframe for data learning, future exploratory data analysis (EDA), and statistical activities.
-
-Compile summary information about the data to inform next steps.
-
-- Part 3: Understand the variables
-
-Use insights from your examination of the summary data to guide deeper investigation into specific variables.
 
 ## Understand the situation
 - How can best prepare to understand and organize the provided taxi cab information?
@@ -104,28 +79,6 @@ Begin by exploring dataset and consider reviewing the Data Dictionary. One can p
 [Notebook](https://github.com/nihalshaikh-analyst/NYC-Yellow-Taxi-Trip-Data-Analysis/blob/main/Data%20Understaing%20NYC%20TLC.ipynb)
 
 
-## Build dataframe
-Create a pandas dataframe for data learning, and future exploratory data analysis (EDA) and statistical activities.
-
-Code the following,
-
-- import pandas as pd. pandas is used for buidling dataframes.
-
-- import numpy as np. numpy is imported with pandas
-
-- df = pd.read_csv('Datasets\NYC taxi data.csv')
-
-Note: pair the data object name "df" with pandas functions to manipulate data, such as df.groupby().
-
-- Regarding fare amount, the distribution is worth considering. The maximum fare amount is a much larger value ($1000) than the 25-75       percent range of values. Also, it's questionable how there are negative values for fare amount. Regarding trip distance, most rides are   between 1-3 miles, but the maximum is over 33 miles.
-
-- The values align with our earlier data discovery, where we noticed that the longest rides are approximately 33 miles.
-
-- Yes, the first two values are significantly higher than the others.
-
-- The most expensive rides are not necessarily the longest ones.
-
-- After looking at the dataset, the two variables that are most likely to help build a predictive model for taxi ride fares are total_amount and trip_distance because those variables show a picture of a taxi cab ride.
 
 ## Project Status
 - Explored dataset to find any unusual values.
