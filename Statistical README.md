@@ -148,6 +148,6 @@ New York City Taxi and Limousine Commission (New York City TLC) Yellow taxi trip
 
 Any query contact to us nihalshaikh.analyst@gmail.com
 
-any concern connect to us [Linkedin](https://www.linkedin.com/in/nihalshaikh1/)
+
 
 -------------Thank you.................
